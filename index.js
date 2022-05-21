@@ -1,4 +1,3 @@
-// Index.js is the entry point
 const express = require('express')
 const cors = require('cors')
 const ratelimit = require('express-rate-limit')
